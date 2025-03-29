@@ -1,115 +1,15 @@
 ---
-title: "Markdown Admonitions"
+title: "Life and our monkey brain"
 description: "This post showcases using the markdown admonition feature in Astro Cactus"
-publishDate: "25 Aug 2024"
+publishDate: "20 Apr 2024"
 updatedDate: "7 Jan 2025"
-tags: ["markdown", "admonitions"]
+tags: ["", ""]
 ---
 
-## What are admonitions
+Life is about growth; it’s about change. Like Thor once said to Loki, “Life is about growth, it’s about change, but you seem to just wanna stay the same, I guess. What I’m trying to say is that you’ll always be the god of mischief, but you could be more.” It hits different when you start to realize that Loki is not just the god of mischief but also the god of the sacred timeline. He learned from his mistakes and changed — that’s what life is. He sacrificed everything to save everyone in the timeline; maybe that was his purpose. As a human, I truly believe that everyone has their own purpose; we just need to wait and find it. We have to learn from our mistakes and improve — only then can we unleash our potential. If you think about life, it is pretty simple, but you are just making it complicated in your head. The thing is, your mind is not on your side, and every thought isn’t yours.  
 
-Admonitions (also known as “asides”) are useful for providing supportive and/or supplementary information related to your content.
+Our emotions are fleeting — but we can choose to dwell on them or let them go. We have up to 80,000 thoughts a day; half of them may be negative. We need to realize that our thoughts are just thoughts, not reality. We can control our minds by acknowledging and challenging negative thoughts and focusing on positive ones. Our thoughts are powerful and can shape our emotions, behaviors, and well-being. The key to eliminating mental suffering is mastering your thoughts — recognizing that you are not your thoughts but rather an observer of them, and choosing which thoughts to give power to.  
 
-## How to use them
+There are two aspects within you: your higher self, which seeks your highest potential, and your lower self, which seeks comfort and instant gratification. These two selves are in a constant war, with thoughts as their soldiers. Giving attention to thoughts sent by the lower self empowers it, leading you towards a life of comfort-seeking and instant gratification — the opposite of change and success. To win the war against the lower self, you must understand it fully and refuse to give attention to any thoughts it sends. It is vital to analyze your thoughts and the actions they lead to critically.  
 
-To use admonitions in Astro Cactus, wrap your Markdown content in a pair of triple colons `:::`. The first pair should also include the type of admonition you want to use.
-
-For example, with the following Markdown:
-
-```md
-:::note
-Highlights information that users should take into account, even when skimming.
-:::
-```
-
-Outputs:
-
-:::note
-Highlights information that users should take into account, even when skimming.
-:::
-
-## Admonition Types
-
-The following admonitions are currently supported:
-
-- `note`
-- `tip`
-- `important`
-- `warning`
-- `caution`
-
-### Note
-
-```md
-:::note
-Highlights information that users should take into account, even when skimming.
-:::
-```
-
-:::note
-Highlights information that users should take into account, even when skimming.
-:::
-
-### Tip
-
-```md
-:::tip
-Optional information to help a user be more successful.
-:::
-```
-
-:::tip
-Optional information to help a user be more successful.
-:::
-
-### Important
-
-```md
-:::important
-Crucial information necessary for users to succeed.
-:::
-```
-
-:::important
-Crucial information necessary for users to succeed.
-:::
-
-### Caution
-
-```md
-:::caution
-Negative potential consequences of an action.
-:::
-```
-
-:::caution
-Negative potential consequences of an action.
-:::
-
-### Warning
-
-```md
-:::warning
-Critical content demanding immediate user attention due to potential risks.
-:::
-```
-
-:::warning
-Critical content demanding immediate user attention due to potential risks.
-:::
-
-## Customising the admonition title
-
-You can customise the admonition title using the following markup:
-
-```md
-:::note[My custom title]
-This is a note with a custom title.
-:::
-```
-
-Outputs:
-
-:::note[My custom title]
-This is a note with a custom title.
-:::
+I truly believe that a strong, resilient mind is the first arc we have to build for a happy and purposeful life. Evolution isn’t just about physical changes — it’s a process encompassing fitness, knowledge, mindset, and other areas of life. To survive and thrive, we must continuously strive for improvement. Reflect on your strengths and weaknesses, setting a blueprint for evolving into your best self. What we need in our life is wisdom and knowledge, and luckily we are surrounded by it. We just need to seek it out, whether through books, experiences, or interactions with others. Change and growth.
