@@ -3,7 +3,7 @@ title: "Life and our monkey brain"
 description: "This post showcases using the markdown admonition feature in Astro Cactus"
 publishDate: "20 Apr 2024"
 updatedDate: "7 Jan 2025"
-tags: ["", ""]
+tags: ["g", "j"]
 ---
 
 Life is about growth; it’s about change. Like Thor once said to Loki, “Life is about growth, it’s about change, but you seem to just wanna stay the same, I guess. What I’m trying to say is that you’ll always be the god of mischief, but you could be more.” It hits different when you start to realize that Loki is not just the god of mischief but also the god of the sacred timeline. He learned from his mistakes and changed — that’s what life is. He sacrificed everything to save everyone in the timeline; maybe that was his purpose. As a human, I truly believe that everyone has their own purpose; we just need to wait and find it. We have to learn from our mistakes and improve — only then can we unleash our potential. If you think about life, it is pretty simple, but you are just making it complicated in your head. The thing is, your mind is not on your side, and every thought isn’t yours.  
