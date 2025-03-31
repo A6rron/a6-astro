@@ -33,6 +33,12 @@
 			--color-accent: oklch(70.91% 0.1415 163.7);
 			--color-accent-2: oklch(94.66% 0 0);
 			--color-quote: oklch(94.8% 0.106 136.49);
+
+			/* Override tip admonition colors for dark mode */
+			.admonition[data-admonition-type="tip"] {
+				--admonition-color: var(--color-global-text); /* Use the main text color */
+				@apply bg-white/5; /* Use a subtle white background */
+			}
 		}
 	}
 }
