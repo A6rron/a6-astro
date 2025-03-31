@@ -1,6 +1,6 @@
 ---
 title: "Life and our monkey brain"
-description: "This post showcases using the markdown admonition feature in Astro Cactus"
+description: "./"
 publishDate: "20 Apr 2024"
 updatedDate: "7 Jan 2025"
 tags: ["life", "thoughts"]
