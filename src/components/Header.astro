@@ -1,5 +1,9 @@
-import {APP_CONFIG} from "@/utils/config"; import Logo from "./Logo.astro"; import ThemeToggle from
-"./ThemeToggle.astro"; const {header} = APP_CONFIG;
+import { APP_CONFIG } from "@/utils/config";
+
+import Logo from "./Logo.astro";
+import ThemeToggle from "./ThemeToggle.astro";
+
+const { header } = APP_CONFIG;
 
 <header class="p-4 sm:px-8 sm:py-6">
 	<div class="mx-auto max-w-4xl">
@@ -29,7 +33,7 @@ import {APP_CONFIG} from "@/utils/config"; import Logo from "./Logo.astro"; impo
 				</ul>
 				-->
 				<!-- End of removed navigation list -->
-				<div class="border-l-divider ml-4 flex items-center gap-2 border-l pl-4">
+				<div class="ml-4 flex items-center gap-2 border-l border-l-divider pl-4">
 					<ThemeToggle />
 					<!-- Mobile Nav -->
 					<!-- ... existing mobile nav code ... -->
@@ -39,5 +43,4 @@ import {APP_CONFIG} from "@/utils/config"; import Logo from "./Logo.astro"; impo
 	</div>
 	<!-- Mobile Nav Panel -->
 	<!-- ... existing mobile nav panel code ... -->
-</header>
-
+</header> 
