@@ -1,1 +1,48 @@
- 
+---
+import { APP_CONFIG } from "@/utils/config";
+
+import Logo from "./Logo.astro";
+import ThemeToggle from "./ThemeToggle.astro";
+
+const { header } = APP_CONFIG;
+---
+
+<header class="p-4 sm:px-8 sm:py-6">
+	<div class="mx-auto max-w-4xl">
+		<div class="relative flex items-center justify-between gap-3">
+			<div class="flex flex-1">
+				<a class="flex items-center gap-3" href="/">
+					<Logo />
+					<span class="hidden text-xl font-medium sm:inline">{header.title}</span>
+				</a>
+			</div>
+			<div class="flex flex-shrink-0 items-center">
+				<!-- Remove the navigation list below -->
+				<!--
+				<ul class="hidden items-center gap-4 sm:flex" role="list">
+					{
+						header.navLinks.map(({ href, text }) => (
+							<li>
+								<a
+									class="text-sm font-medium hover:text-accent focus-visible:text-accent"
+									href={href}
+								>
+									{text}
+								</a>
+							</li>
+						))
+					}
+				</ul>
+				-->
+				<!-- End of removed navigation list -->
+				<div class="border-l-divider ml-4 flex items-center gap-2 border-l pl-4">
+					<ThemeToggle />
+					<!-- Mobile Nav -->
+					<!-- ... existing mobile nav code ... -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Mobile Nav Panel -->
+	<!-- ... existing mobile nav panel code ... -->
+</header>
